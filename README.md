@@ -40,5 +40,3 @@ Ensure the following settings are configured in your Azure environment:
 3. Open the Store URL and generate events by clicking on products.
 4. Open the Dashboard URL to view real-time breakdown of device types and traffic spikes.
 
----
-*AI Disclosure: I used Gemini/AI assistance to help draft the architecture diagram logic and refine the documentation structure. All code and Azure configurations were verified and tested manually.*
